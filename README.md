@@ -36,3 +36,7 @@ You need a web browser (like Chrome, Firefox, Edge, Safari) to play the game. Yo
 
 Enjoy the game!
 
+<p align="center">
+  <img src="https://ik.imagekit.io/ot2xhbh9ok/project%20pictures/Kart%20Demo.png?updatedAt=1752634680924" alt="Kart Demo Screenshot" />
+</p>
+
